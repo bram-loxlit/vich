@@ -1,0 +1,10 @@
+baseURL = '/'
+languageCode = 'nl-be'
+title = 'VICH'
+theme = 'blowfish'
+
+[params]
+  color = "custom"
+  # Dit dwingt de lichte modus af en laadt je CSS
+  defaultTheme = "light"
+  customCSS = ["css/custom.css"]
